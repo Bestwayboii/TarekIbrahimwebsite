@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<a id="baba" href="Adminqwer.github.io">for Baba</a>
+<style>
+#baba{
+color:red;
+background-color:blue;
+</style>
+</html>
